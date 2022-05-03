@@ -1,0 +1,14 @@
+body {
+    font: large Arial, sans-serif;
+}
+
+header a {
+    text-decoration: none;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid black;
+}
